@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.avionlifestyle.com/</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.example.com/index.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.example.com/store.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.example.com/product.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.example.com/checkout.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.example.com/blank.html</loc>
+
+   </url>
+
+</urlset>
